@@ -1,0 +1,55 @@
+﻿@charset "utf-8";
+html,body {margin:0;padding:0;}
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	width: 100%;
+	color: #0b0b0b;
+	background-color: rgba(237, 237, 237, 0.5);
+}
+
+.navbar{
+	text-align: right;
+}
+
+
+a, a:link, a:visited{
+	padding: 10px 50px;
+	text-decoration: none;
+	color: #FFF;
+}
+
+
+ul.resize{
+	top:150px;
+	text-align: center;
+}
+
+.photo{
+	display: block;
+	margin: 0 auto;
+	margin-left: auto;
+}
+
+
+video{
+	width: 90%;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top: 20px;
+	text-align: center;
+}
+
+.video{
+	width: 80%;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top: 20px;
+	text-align: center;
+}

@@ -1,0 +1,36 @@
+#game{
+    color: #eee9ea;
+    text-align: center;
+    width: 100%;
+    background-image: url(../img/blood.jpeg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.description{
+    margin: 30px;
+}
+
+.stress{
+    color: #ff1625;
+    font-size: 25px;
+}
+
+#game-h{
+    background-color: rgba(0, 0, 0, 0.5);
+    color: black;
+    font-size: large;
+    font-style: italic;
+}
+
+#game-f{
+    text-align: right;
+    margin-top: 50px;
+    font-size: 14px;
+}
+
+#game-f span{
+    font-size: 9px;
+}

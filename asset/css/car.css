@@ -1,0 +1,80 @@
+
+
+
+#car{
+    color: white;
+    background-image: url(../img/rock-back.jpeg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#car-h{
+    background-color: rgba(192, 192, 192, 0.65);
+    color: black;
+    font-size: large;
+    font-style: italic;
+}
+
+#car .layerImage {
+
+}
+
+#car .layerTransparent {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+#car .frontWrap {
+    position: relative;
+}
+
+#car .frontContents {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+}
+
+
+#car h2{
+    text-align: left;
+    color: #FFF;
+    margin: 30px;
+    margin-top: 50px;
+}
+
+#car .description{
+    text-align: left;
+}
+
+#car p{
+    margin: 30px;
+}
+
+#car img{
+    max-width: 50%;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+
+}
+
+#car-f{
+    text-align: right;
+    margin-top: 50px;
+    font-size: 14px;
+}
+
+#car-f span{
+    text-align: right;
+    font-size: 9px;
+}
+
+#car #title{
+    margin-top: 40px;
+    font-size: 60px;
+    text-align: center;
+}

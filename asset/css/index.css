@@ -1,0 +1,61 @@
+
+#home{
+    color: #333333;
+    text-align: center;
+    width: 100%;
+    background-size: contain;
+    background-image: url(../img/dennki.png);
+}
+
+#index-h{
+    background-color: rgba(167, 167, 167, 0.5);
+    color: black;
+    font-size: large;
+    font-style: italic;
+}
+
+#layor{
+    background-color: rgba(255, 255, 255, 0.6);
+}
+
+.hello{
+    text-align: left;
+}
+
+.hello h2{
+    border-bottom: medium solid #89ff90;
+    margin: 30px;
+    margin-bottom: 10px;
+}
+.hello h4{
+    margin-left: 30px;
+}
+.hello p{
+    margin: 30px;
+}
+
+#home a{
+    color: green;
+    padding: 0px;
+}
+
+.hello span{
+    margin-left: 30px;
+}
+
+#index-f{
+    text-align: right;
+    margin-top: 50px;
+    font-size: 14px;
+}
+
+#index-f span{
+    text-align: right;
+    font-size: 9px;
+}
+
+.alert{
+    padding: 5px;
+    margin: 5px;
+}
+
